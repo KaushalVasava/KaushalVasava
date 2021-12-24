@@ -4,4 +4,5 @@
 - You can following me on 
 LinkedIn : https://www.linkedin.com/in/kaushal-vasava
 - Check out my apps :
-https://play.google.com/store/apps/details?id=com.lasuak.musicplayer
+- Sangeet : https://play.google.com/store/apps/details?id=com.lasuak.musicplayer
+- Flashlight : https://play.google.com/store/apps/details?id=com.lahsuak.flashlightplus
