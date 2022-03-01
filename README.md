@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KaushalVasava
-- 👀 I’m interested in android app developement.
+- 👀 I’m interested in an android app developement.
 - 🌱 I’m currently learning android app developement.
 - You can following me on 
 - Stack overflow :https://stackoverflow.com/users/18080389/kaushal-vasava
