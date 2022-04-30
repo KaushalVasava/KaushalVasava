@@ -6,7 +6,8 @@
 - LinkedIn : https://www.linkedin.com/in/kaushal-vasava
 - Twitter : https://twitter.com/KaushalVasavaIn
 - Check out my apps :
-- Sangeet : https://play.google.com/store/apps/details?id=com.lasuak.musicplayer
-- Flashlight : https://play.google.com/store/apps/details?id=com.lahsuak.flashlightplus
-- Task To-do list : https://play.google.com/store/apps/details?id=com.lahsuak.apps.mytask
+- Sangeet : Songs & Music Player : https://play.google.com/store/apps/details?id=com.lasuak.musicplayer
+- My Tasks : https://play.google.com/store/apps/details?id=com.lahsuak.apps.mytask
+- My Paint : https://play.google.com/store/apps/details?id=com.lahsuak.apps.mypaint
+- Flashlight + : https://play.google.com/store/apps/details?id=com.lahsuak.flashlightplus
 - Instagram post downloader : https://play.google.com/store/apps/details?id=com.lahsuak.apps.instadownloader
