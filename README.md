@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @KaushalVasava
 - 👀 I’m interested in an android app developement.
 - 🌱 I’m growing as an android app developer. Currently learning Jetpack Compose.
+- Specialize in E-commerce app developement, Firebase, Payment, Github, API Integration using Koltin language.
 - You can following me on 
 - LinkedIn : https://www.linkedin.com/in/kaushal-vasava
 
