@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KaushalVasava</h1>
+<h1 align="center">Hi 👋, I'm Kaushal Vasava</h1>
 <h3 align="center">I'm interested in an App development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushalvasava&label=Profile%20views&color=0e75b6&style=flat" alt="kaushalvasava" /> </p>
