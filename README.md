@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Advance Jetpack Compose**
 
-- 👨‍💻 All of my projects are available at [https://zaap.bio/KaushalVasava](https://zaap.bio/KaushalVasava)
+- 👨‍💻 Portfolio website [https://zaap.bio/KaushalVasava](https://zaap.bio/KaushalVasava)
 
 - 💬 Ask me about **Android, Kotlin, Firebase, Github**
 
