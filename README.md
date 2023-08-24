@@ -20,7 +20,7 @@
 - I am an experienced Android developer with a strong skill set in various technologies and frameworks. I specialize in utilizing Firebase for real-time data synchronization and cloud-based functionalities. I'm proficient in integrating Retrofit for efficient networking, Paging for seamless data loading, Dagger-Hilt for dependency injection, Room for local data storage and retrieval, implementing Ads frameworks to monetize applications effectively, and different types of Social media integration and Authentication with a deep understanding of Clean architecture principles, I develop apps following the MVVM architecture pattern, ensuring separation of concerns and maintainability.  Additionally, I have integrated payment gateways for seamless and secure transaction processing. Whether it's integrating payment APIs like Cash-free payment, I have the know-how to handle secure payment integration, Proguard for secure app code.  I'm passionate about delivering high-quality apps that provide exceptional user experiences.
 - Specialize in E-commerce app developement, Firebase, Payment, Github, API Integration using Koltin language.
 
-# My App links
+# My Apps link
 - StudyGhar Stationery : https://play.google.com/store/apps/details?id=com.kaushalvasava.org.apps.studygharstationery
 - Sangeet : Songs & Music Player : https://play.google.com/store/apps/details?id=com.lasuak.musicplayer
 - Tasks : To-do list & Reminders : https://play.google.com/store/apps/details?id=com.lahsuak.apps.tasks
