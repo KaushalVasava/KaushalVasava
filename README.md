@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kaushalvasavain" target="blank"><img src="https://img.shields.io/twitter/follow/kaushalvasavain?logo=twitter&style=for-the-badge" alt="kaushalvasavain" /></a> </p>
 
-- 🔭 I’m currently working on **Annpurna: Food Shop & Delivery app**
-
-- 🌱 I’m currently learning **Advance Jetpack Compose**
+- 🌱 I’m currently learning **Advance Jetpack Compose** and **Kotlin MultiPlatform**.
 
 - 👨‍💻 Portfolio website [https://zaap.bio/KaushalVasava](https://zaap.bio/KaushalVasava)
 
