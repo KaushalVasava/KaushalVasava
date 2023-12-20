@@ -9,7 +9,7 @@
 
 - 👨‍💻 Portfolio website [https://zaap.bio/KaushalVasava](https://zaap.bio/KaushalVasava)
 
-- 💬 Ask me about **Android, Kotlin, Firebase, Github**
+- 💬 Ask me about **Android, Kotlin, Firebase, Github, Kotlin multiplatform**
 
 - Google Dev library: https://devlibrary.withgoogle.com/products/android?sort=added
 
@@ -26,7 +26,8 @@
 - Tasks : To-do list & Reminders : https://play.google.com/store/apps/details?id=com.lahsuak.apps.tasks
 - Paint : https://play.google.com/store/apps/details?id=com.lahsuak.apps.paint
 - Flashlight: Torch & Call Flash : https://play.google.com/store/apps/details?id=com.lahsuak.apps.flashlight
-
+- App Manager & Quick Launcher : https://play.google.com/store/apps/details?id=com.lahsuak.apps.appmanager
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kaushalvasavain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaushalvasavain" height="30" width="40" /></a>
