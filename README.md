@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushalvasava" alt="kaushalvasava" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kaushalvasavain" target="blank"><img src="https://img.shields.io/twitter/follow/kaushalvasavain?logo=twitter&style=for-the-badge" alt="kaushalvasavain" /></a> </p>
-
 - 🌱 I’m currently learning **Advance Jetpack Compose** and **Kotlin MultiPlatform**.
 
 - 👨‍💻 Portfolio website [https://zaap.bio/KaushalVasava](https://zaap.bio/KaushalVasava)
