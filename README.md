@@ -21,7 +21,6 @@
 - Sangeet : Songs & Music Player : https://play.google.com/store/apps/details?id=com.lasuak.musicplayer
 - Tasks : To-do list & Reminders : https://play.google.com/store/apps/details?id=com.lahsuak.apps.tasks
 - Paint : https://play.google.com/store/apps/details?id=com.lahsuak.apps.paint
-- Flashlight: Torch & Call Flash : https://play.google.com/store/apps/details?id=com.lahsuak.apps.flashlight
 - App Manager & Quick Launcher : https://play.google.com/store/apps/details?id=com.lahsuak.apps.appmanager
  
 <h3 align="left">Connect with me:</h3>
