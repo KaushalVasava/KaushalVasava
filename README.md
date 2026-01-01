@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaushal Vasava</h1>
 <h3 align="center">I'm interested in an App development.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushalvasava" alt="kaushalvasava" /></a> </p>
-
 - 🌱 I’m currently learning **Advance Jetpack Compose** and **Kotlin MultiPlatform**.
 
 - 👨‍💻 Portfolio website [https://zaap.bio/KaushalVasava](https://zaap.bio/KaushalVasava)
