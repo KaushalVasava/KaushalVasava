@@ -1,27 +1,29 @@
-<h1 align="center">Hi, I'm Kaushal Vasava 👋</h1>
+<h1 align="center">Hi 👋, I'm Kaushal Vasava</h1>
+<h3 align="center">I'm interested in an App development.</h3>
 
-<p align="center">
-  <b>Senior Android Engineer · Kotlin · Jetpack Compose · Kotlin Multiplatform · React Native</b>
-</p>
+Android engineer by profession, open-source builder by passion.
+I write Kotlin for a living and share everything I learn.
 
-<p align="center">
-  <a href="https://linkedin.com/in/kaushal-vasava"><img src="https://img.shields.io/badge/LinkedIn-Top%20Voice-0077B5?style=flat&logo=linkedin" /></a>
-  <a href="https://medium.com/@KaushalVasava"><img src="https://img.shields.io/badge/Medium-3.6K%20Followers-black?style=flat&logo=medium" /></a>
-  <a href="https://zaap.bio/KaushalVasava"><img src="https://img.shields.io/badge/Portfolio-zaap.bio-brightgreen?style=flat" /></a>
-  <a href="https://devlibrary.withgoogle.com/products/android"><img src="https://img.shields.io/badge/Google%20Dev%20Library-Featured-4285F4?style=flat&logo=google" /></a>
-</p>
+- 🔭 Currently building with Jetpack Compose & Kotlin Multiplatform
 
----
+- 🌱 Exploring AI-assisted dev workflows (Cursor, MCP)
 
-## 🚀 About Me
+- ✍️ Writing about Android, Kotlin multiplatform, Kotlin on Medium — 45K+ views
 
-I build Android apps people actually use.
+- 📲 My apps have 111K+ downloads on the Play Store
 
-**111K+ downloads · 32K active users · 99.8% crash-free.** That's the bar I hold myself to.
 
-4.5 years of Android engineering — from early-stage startups to enterprise SaaS. Currently a **Software Engineer at MRI Software**, building cross-platform mobile solutions used by thousands of users daily.
+- 👨‍💻 Portfolio website [https://zaap.bio/KaushalVasava](https://zaap.bio/KaushalVasava)
 
----
+- 💬 Ask me about **Android, Kotlin, Firebase, Github, Kotlin multiplatform**
+
+- Google Dev library: https://devlibrary.withgoogle.com/products/android?sort=added
+
+
+- Read my medium blogs: https://medium.com/@KaushalVasava 
+
+- I am an experienced App developer with a strong skill set in various technologies and frameworks. I specialize in utilizing Firebase for real-time data synchronization and cloud-based functionalities. I'm proficient in integrating Retrofit for efficient networking, Paging for seamless data loading, Dagger-Hilt for dependency injection, Room for local data storage and retrieval, implementing Ads frameworks to monetize applications effectively, and different types of Social media integration and Authentication with a deep understanding of Clean architecture principles, I develop apps following the MVVM architecture pattern, ensuring separation of concerns and maintainability.  Additionally, I have integrated payment gateways for seamless and secure transaction processing. Whether it's integrating payment APIs like Cash-free payment, I have the know-how to handle secure payment integration, Proguard for secure app code.  I'm passionate about delivering high-quality apps that provide exceptional user experiences. Also worked on React native expo project and contributed in it.
+
 
 ## 📊 Impact at a Glance
 
@@ -36,6 +38,7 @@ I build Android apps people actually use.
 
 ---
 
+
 ## 🛠️ Tech Stack
 
 ```
@@ -47,7 +50,6 @@ AI & Tools   → Cursor, Copilot, MCP workflows, Figma-to-dev, CI/CD, Azure DevO
 Security     → Veracode, secure coding, input validation
 ```
 
----
 
 ## 📱 Featured Projects
 
@@ -80,25 +82,6 @@ Security     → Veracode, secure coding, input validation
 > Kotlin · MVVM · Clean Architecture
 
 - [View on Play Store](https://play.google.com/store/apps/details?id=com.lasuak.musicplayer)
-
----
-
-## 💼 Experience
-
-**MRI Software** — Software Engineer *(Apr 2024 – Present)*
-- Improved app stability from 89.7% → **99.8% crash-free** using Crashlytics
-- Reduced security vulnerabilities by **90%** using Veracode
-- Built cross-platform features with React Native (Android + iOS + Web)
-- Implemented geofence-based automation for workforce tracking
-- Boosted team delivery speed **~30%** via AI-assisted workflows
-
-**Freelance Android Developer** *(Feb 2023 – Mar 2024)*
-- Delivered 5+ end-to-end apps with **zero client-reported production issues**
-- Migrated legacy Java codebases to Kotlin with modernized architecture
-
-**Algozen Technologies** — Android Developer *(May 2022 – Jan 2023)*
-- Built e-commerce app from scratch using MVVM + Kotlin Flow
-- Integrated Cashfree payment gateway with crash-free transaction flows
 
 ---
 
